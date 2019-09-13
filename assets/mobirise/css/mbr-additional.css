@@ -2199,6 +2199,30 @@ body {
   display: flex;
   flex-direction: column-reverse;
 }
+.cid-rBXeHLqxAJ {
+  background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.cid-rBXeHLqxAJ .image-block {
+  margin: auto;
+}
+.cid-rBXeHLqxAJ .mbr-figure {
+  margin: 0 auto;
+}
+.cid-rBXeHLqxAJ figcaption {
+  position: relative;
+}
+.cid-rBXeHLqxAJ figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rBXeHLqxAJ .image-block {
+    width: 100% !important;
+  }
+}
 .cid-rtQXoPNZpB {
   padding-top: 15px;
   padding-bottom: 15px;
