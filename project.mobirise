@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Impact Booster",
-    "currentPage": "bcorp.html",
+    "currentPage": "approche.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -642,7 +642,7 @@
     },
     "bcorp.html": {
       "settings": {
-        "meta_descr": "Découvrez le B Corp Booster",
+        "meta_descr": "",
         "title": "B Corp Booster",
         "order": 1
       },
@@ -1385,7 +1385,7 @@
     },
     "approche.html": {
       "settings": {
-        "meta_descr": "Qui sommes-nous et quelles sont nos valeurs",
+        "meta_descr": "",
         "title": "L'Approche",
         "order": 3
       },
